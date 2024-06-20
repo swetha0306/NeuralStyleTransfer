@@ -5,5 +5,5 @@ This project implements NST using deep learning techniques, specifically Convolu
 Dependencies :-
 1. TensorFlow : version - "2.16.1"
 2. Numpy
-3. Pillow
+3. Pillow(PIL)
 4. Matplotlib
